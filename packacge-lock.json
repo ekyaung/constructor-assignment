@@ -1,252 +1,232 @@
-module.exports = [
-  "The Shawshank Redemption",
-  "The Godfather",
-  "The Godfather: Part II",
-  "The Dark Knight",
-  "12 Angry Men",
-  "Schindler's List",
-  "Pulp Fiction",
-  "The Lord of the Rings: The Return of the King",
-  "The Good, the Bad and the Ugly",
-  "Fight Club",
-  "The Lord of the Rings: The Fellowship of the Ring",
-  "Forrest Gump",
-  "Star Wars: Episode V - The Empire Strikes Back",
-  "Inception",
-  "The Lord of the Rings: The Two Towers",
-  "One Flew Over the Cuckoo's Nest",
-  "Goodfellas",
-  "The Matrix",
-  "Seven Samurai",
-  "Star Wars: Episode IV - A New Hope",
-  "City of God",
-  "Se7en",
-  "The Silence of the Lambs",
-  "It's a Wonderful Life",
-  "Life Is Beautiful",
-  "The Usual Suspects",
-  "Léon: The Professional",
-  "Saving Private Ryan",
-  "Spirited Away",
-  "American History X",
-  "Once Upon a Time in the West",
-  "Interstellar",
-  "Psycho",
-  "The Green Mile",
-  "Casablanca",
-  "City Lights",
-  "The Intouchables",
-  "Modern Times",
-  "Raiders of the Lost Ark",
-  "The Pianist",
-  "The Departed",
-  "Rear Window",
-  "Terminator 2: Judgment Day",
-  "Back to the Future",
-  "Whiplash",
-  "Gladiator",
-  "The Prestige",
-  "The Lion King",
-  "Memento",
-  "Apocalypse Now",
-  "Alien",
-  "The Great Dictator",
-  "Sunset Boulevard",
-  "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
-  "Cinema Paradiso",
-  "The Lives of Others",
-  "Grave of the Fireflies",
-  "Paths of Glory",
-  "Django Unchained",
-  "The Shining",
-  "WALL·E",
-  "American Beauty",
-  "The Dark Knight Rises",
-  "Princess Mononoke",
-  "Oldboy",
-  "Aliens",
-  "Witness for the Prosecution",
-  "Once Upon a Time in America",
-  "Das Boot",
-  "Citizen Kane",
-  "Dangal",
-  "Vertigo",
-  "North by Northwest",
-  "Star Wars: Episode VI - Return of the Jedi",
-  "Braveheart",
-  "Reservoir Dogs",
-  "M",
-  "Requiem for a Dream",
-  "Amélie",
-  "Like Stars on Earth",
-  "A Clockwork Orange",
-  "Your Name",
-  "Lawrence of Arabia",
-  "Dunkirk",
-  "Double Indemnity",
-  "Amadeus",
-  "Taxi Driver",
-  "Eternal Sunshine of the Spotless Mind",
-  "To Kill a Mockingbird",
-  "Full Metal Jacket",
-  "2001: A Space Odyssey",
-  "Singin' in the Rain",
-  "Toy Story 3",
-  "The Sting",
-  "Toy Story",
-  "3 Idiots",
-  "Bicycle Thieves",
-  "Inglourious Basterds",
-  "The Kid",
-  "Snatch",
-  "Monty Python and the Holy Grail",
-  "Good Will Hunting",
-  "For a Few Dollars More",
-  "The Hunt",
-  "L.A. Confidential",
-  "Scarface",
-  "The Apartment",
-  "Metropolis",
-  "Rashomon",
-  "A Separation",
-  "Indiana Jones and the Last Crusade",
-  "My Father and My Son",
-  "Yojimbo",
-  "All About Eve",
-  "Up",
-  "Batman Begins",
-  "Some Like It Hot",
-  "The Treasure of the Sierra Madre",
-  "Unforgiven",
-  "Downfall",
-  "Die Hard",
-  "Raging Bull",
-  "Heat",
-  "Children of Heaven",
-  "The Third Man",
-  "The Great Escape",
-  "Chinatown",
-  "Ikiru",
-  "Pan's Labyrinth",
-  "My Neighbor Totoro",
-  "Ran",
-  "The Gold Rush",
-  "Inside Out",
-  "Incendies",
-  "The Secret in Their Eyes",
-  "On the Waterfront",
-  "Judgment at Nuremberg",
-  "The Bridge on the River Kwai",
-  "Howl's Moving Castle",
-  "Room",
-  "Blade Runner",
-  "The Seventh Seal",
-  "Lock, Stock and Two Smoking Barrels",
-  "Mr. Smith Goes to Washington",
-  "Casino",
-  "A Beautiful Mind",
-  "The Elephant Man",
-  "Wild Strawberries",
-  "V for Vendetta",
-  "The Wolf of Wall Street",
-  "The General",
-  "Warrior",
-  "Trainspotting",
-  "Dial M for Murder",
-  "Andrei Rublev",
-  "Gran Torino",
-  "Sunrise",
-  "Gone with the Wind",
-  "The Deer Hunter",
-  "The Bandit",
-  "Fargo",
-  "The Sixth Sense",
-  "La La Land",
-  "The Thing",
-  "The Big Lebowski",
-  "No Country for Old Men",
-  "Finding Nemo",
-  "Tokyo Story",
-  "Hacksaw Ridge",
-  "Cool Hand Luke",
-  "There Will Be Blood",
-  "Rebecca",
-  "Come and See",
-  "Rang De Basanti",
-  "The Passion of Joan of Arc",
-  "Kill Bill: Vol. 1",
-  "How to Train Your Dragon",
-  "Logan",
-  "Mary and Max",
-  "Gone Girl",
-  "Into the Wild",
-  "Shutter Island",
-  "A Wednesday",
-  "It Happened One Night",
-  "Life of Brian",
-  "Wild Tales",
-  "Platoon",
-  "The Wages of Fear",
-  "Hotel Rwanda",
-  "Network",
-  "Rush",
-  "In the Name of the Father",
-  "Stand by Me",
-  "Persona",
-  "The 400 Blows",
-  "Ben-Hur",
-  "The Grand Budapest Hotel",
-  "12 Years a Slave",
-  "Mad Max: Fury Road",
-  "Memories of Murder",
-  "Spotlight",
-  "Million Dollar Baby",
-  "Jurassic Park",
-  "Butch Cassidy and the Sundance Kid",
-  "Stalker",
-  "Amores Perros",
-  "The Truman Show",
-  "The Maltese Falcon",
-  "Hachi: A Dog's Tale",
-  "Nausicaä of the Valley of the Wind",
-  "Paper Moon",
-  "The Princess Bride",
-  "The Nights of Cabiria",
-  "Before Sunrise",
-  "Munna Bhai M.B.B.S.",
-  "Prisoners",
-  "Harry Potter and the Deathly Hallows: Part 2",
-  "The Grapes of Wrath",
-  "Rocky",
-  "Catch Me If You Can",
-  "Diabolique",
-  "Touch of Evil",
-  "Gandhi",
-  "Star Wars: The Force Awakens",
-  "Donnie Darko",
-  "Monsters, Inc.",
-  "Annie Hall",
-  "The Terminator",
-  "Barry Lyndon",
-  "The Bourne Ultimatum",
-  "Sholay",
-  "The Wizard of Oz",
-  "Groundhog Day",
-  "8½",
-  "La Haine",
-  "Jaws",
-  "Twelve Monkeys",
-  "The Best Years of Our Lives",
-  "Infernal Affairs",
-  "Paris, Texas",
-  "The Help",
-  "In the Mood for Love",
-  "Beauty and the Beast",
-  "The Battle of Algiers",
-  "Dog Day Afternoon",
-  "Pirates of the Caribbean: The Curse of the Black Pearl",
-  "Gangs of Wasseypur",
-  "The Handmaiden",
-  "PK",
-  "What Ever Happened to Baby Jane?"
-];
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "lockfileVersion": 1,
+  "requires": true,
+  "dependencies": {
+    "ansi-escapes": {
+      "version": "3.0.0",
+      "resolved": "https://registry.npmjs.org/ansi-escapes/-/ansi-escapes-3.0.0.tgz",
+      "integrity": "sha512-O/klc27mWNUigtv0F8NJWbLF00OcegQalkqKURWdosW08YZKi4m6CnSUSvIZG1otNJbTWhN01Hhz389DW7mvDQ=="
+    },
+    "ansi-regex": {
+      "version": "3.0.0",
+      "resolved": "https://registry.npmjs.org/ansi-regex/-/ansi-regex-3.0.0.tgz",
+      "integrity": "sha1-7QMXwyIGT3lGbAKWa922Bas32Zg="
+    },
+    "ansi-styles": {
+      "version": "3.2.0",
+      "resolved": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-3.2.0.tgz",
+      "integrity": "sha512-NnSOmMEYtVR2JVMIGTzynRkkaxtiq1xnFBcdQD/DnNCYPoEPsVJhM98BDyaoNOQIi7p4okdi3E27eN7GQbsUug==",
+      "requires": {
+        "color-convert": "1.9.0"
+      }
+    },
+    "chalk": {
+      "version": "2.1.0",
+      "resolved": "https://registry.npmjs.org/chalk/-/chalk-2.1.0.tgz",
+      "integrity": "sha512-LUHGS/dge4ujbXMJrnihYMcL4AoOweGnw9Tp3kQuqy1Kx5c1qKjqvMJZ6nVJPMWJtKCTN72ZogH3oeSO9g9rXQ==",
+      "requires": {
+        "ansi-styles": "3.2.0",
+        "escape-string-regexp": "1.0.5",
+        "supports-color": "4.4.0"
+      }
+    },
+    "cli-cursor": {
+      "version": "2.1.0",
+      "resolved": "https://registry.npmjs.org/cli-cursor/-/cli-cursor-2.1.0.tgz",
+      "integrity": "sha1-s12sN2R5+sw+lHR9QdDQ9SOP/LU=",
+      "requires": {
+        "restore-cursor": "2.0.0"
+      }
+    },
+    "cli-width": {
+      "version": "2.2.0",
+      "resolved": "https://registry.npmjs.org/cli-width/-/cli-width-2.2.0.tgz",
+      "integrity": "sha1-/xnt6Kml5XkyQUewwR8PvLq+1jk="
+    },
+    "color-convert": {
+      "version": "1.9.0",
+      "resolved": "https://registry.npmjs.org/color-convert/-/color-convert-1.9.0.tgz",
+      "integrity": "sha1-Gsz5fdc5uYO/mU1W/sj5WFNkG3o=",
+      "requires": {
+        "color-name": "1.1.3"
+      }
+    },
+    "color-name": {
+      "version": "1.1.3",
+      "resolved": "https://registry.npmjs.org/color-name/-/color-name-1.1.3.tgz",
+      "integrity": "sha1-p9BVi9icQveV3UIyj3QIMcpTvCU="
+    },
+    "escape-string-regexp": {
+      "version": "1.0.5",
+      "resolved": "https://registry.npmjs.org/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz",
+      "integrity": "sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ="
+    },
+    "external-editor": {
+      "version": "2.0.5",
+      "resolved": "https://registry.npmjs.org/external-editor/-/external-editor-2.0.5.tgz",
+      "integrity": "sha512-Msjo64WT5W+NhOpQXh0nOHm+n0RfU1QUwDnKYvJ8dEJ8zlwLrqXNTv5mSUTJpepf41PDJGyhueTw2vNZW+Fr/w==",
+      "requires": {
+        "iconv-lite": "0.4.19",
+        "jschardet": "1.5.1",
+        "tmp": "0.0.33"
+      }
+    },
+    "figures": {
+      "version": "2.0.0",
+      "resolved": "https://registry.npmjs.org/figures/-/figures-2.0.0.tgz",
+      "integrity": "sha1-OrGi0qYsi/tDGgyUy3l6L84nyWI=",
+      "requires": {
+        "escape-string-regexp": "1.0.5"
+      }
+    },
+    "has-flag": {
+      "version": "2.0.0",
+      "resolved": "https://registry.npmjs.org/has-flag/-/has-flag-2.0.0.tgz",
+      "integrity": "sha1-6CB68cx7MNRGzHC3NLXovhj4jVE="
+    },
+    "iconv-lite": {
+      "version": "0.4.19",
+      "resolved": "https://registry.npmjs.org/iconv-lite/-/iconv-lite-0.4.19.tgz",
+      "integrity": "sha512-oTZqweIP51xaGPI4uPa56/Pri/480R+mo7SeU+YETByQNhDG55ycFyNLIgta9vXhILrxXDmF7ZGhqZIcuN0gJQ=="
+    },
+    "inquirer": {
+      "version": "3.3.0",
+      "resolved": "https://registry.npmjs.org/inquirer/-/inquirer-3.3.0.tgz",
+      "integrity": "sha512-h+xtnyk4EwKvFWHrUYsWErEVR+igKtLdchu+o0Z1RL7VU/jVMFbYir2bp6bAj8efFNxWqHX0dIss6fJQ+/+qeQ==",
+      "requires": {
+        "ansi-escapes": "3.0.0",
+        "chalk": "2.1.0",
+        "cli-cursor": "2.1.0",
+        "cli-width": "2.2.0",
+        "external-editor": "2.0.5",
+        "figures": "2.0.0",
+        "lodash": "4.17.4",
+        "mute-stream": "0.0.7",
+        "run-async": "2.3.0",
+        "rx-lite": "4.0.8",
+        "rx-lite-aggregates": "4.0.8",
+        "string-width": "2.1.1",
+        "strip-ansi": "4.0.0",
+        "through": "2.3.8"
+      }
+    },
+    "is-fullwidth-code-point": {
+      "version": "2.0.0",
+      "resolved": "https://registry.npmjs.org/is-fullwidth-code-point/-/is-fullwidth-code-point-2.0.0.tgz",
+      "integrity": "sha1-o7MKXE8ZkYMWeqq5O+764937ZU8="
+    },
+    "is-promise": {
+      "version": "2.1.0",
+      "resolved": "https://registry.npmjs.org/is-promise/-/is-promise-2.1.0.tgz",
+      "integrity": "sha1-eaKp7OfwlugPNtKy87wWwf9L8/o="
+    },
+    "jschardet": {
+      "version": "1.5.1",
+      "resolved": "https://registry.npmjs.org/jschardet/-/jschardet-1.5.1.tgz",
+      "integrity": "sha512-vE2hT1D0HLZCLLclfBSfkfTTedhVj0fubHpJBHKwwUWX0nSbhPAfk+SG9rTX95BYNmau8rGFfCeaT6T5OW1C2A=="
+    },
+    "lodash": {
+      "version": "4.17.4",
+      "resolved": "https://registry.npmjs.org/lodash/-/lodash-4.17.4.tgz",
+      "integrity": "sha1-eCA6TRwyiuHYbcpkYONptX9AVa4="
+    },
+    "mimic-fn": {
+      "version": "1.1.0",
+      "resolved": "https://registry.npmjs.org/mimic-fn/-/mimic-fn-1.1.0.tgz",
+      "integrity": "sha1-5md4PZLonb00KBi1IwudYqZyrRg="
+    },
+    "mute-stream": {
+      "version": "0.0.7",
+      "resolved": "https://registry.npmjs.org/mute-stream/-/mute-stream-0.0.7.tgz",
+      "integrity": "sha1-MHXOk7whuPq0PhvE2n6BFe0ee6s="
+    },
+    "onetime": {
+      "version": "2.0.1",
+      "resolved": "https://registry.npmjs.org/onetime/-/onetime-2.0.1.tgz",
+      "integrity": "sha1-BnQoIw/WdEOyeUsiu6UotoZ5YtQ=",
+      "requires": {
+        "mimic-fn": "1.1.0"
+      }
+    },
+    "os-tmpdir": {
+      "version": "1.0.2",
+      "resolved": "https://registry.npmjs.org/os-tmpdir/-/os-tmpdir-1.0.2.tgz",
+      "integrity": "sha1-u+Z0BseaqFxc/sdm/lc0VV36EnQ="
+    },
+    "restore-cursor": {
+      "version": "2.0.0",
+      "resolved": "https://registry.npmjs.org/restore-cursor/-/restore-cursor-2.0.0.tgz",
+      "integrity": "sha1-n37ih/gv0ybU/RYpI9YhKe7g368=",
+      "requires": {
+        "onetime": "2.0.1",
+        "signal-exit": "3.0.2"
+      }
+    },
+    "run-async": {
+      "version": "2.3.0",
+      "resolved": "https://registry.npmjs.org/run-async/-/run-async-2.3.0.tgz",
+      "integrity": "sha1-A3GrSuC91yDUFm19/aZP96RFpsA=",
+      "requires": {
+        "is-promise": "2.1.0"
+      }
+    },
+    "rx-lite": {
+      "version": "4.0.8",
+      "resolved": "https://registry.npmjs.org/rx-lite/-/rx-lite-4.0.8.tgz",
+      "integrity": "sha1-Cx4Rr4vESDbwSmQH6S2kJGe3lEQ="
+    },
+    "rx-lite-aggregates": {
+      "version": "4.0.8",
+      "resolved": "https://registry.npmjs.org/rx-lite-aggregates/-/rx-lite-aggregates-4.0.8.tgz",
+      "integrity": "sha1-dTuHqJoRyVRnxKwWJsTvxOBcZ74=",
+      "requires": {
+        "rx-lite": "4.0.8"
+      }
+    },
+    "signal-exit": {
+      "version": "3.0.2",
+      "resolved": "https://registry.npmjs.org/signal-exit/-/signal-exit-3.0.2.tgz",
+      "integrity": "sha1-tf3AjxKH6hF4Yo5BXiUTK3NkbG0="
+    },
+    "string-width": {
+      "version": "2.1.1",
+      "resolved": "https://registry.npmjs.org/string-width/-/string-width-2.1.1.tgz",
+      "integrity": "sha512-nOqH59deCq9SRHlxq1Aw85Jnt4w6KvLKqWVik6oA9ZklXLNIOlqg4F2yrT1MVaTjAqvVwdfeZ7w7aCvJD7ugkw==",
+      "requires": {
+        "is-fullwidth-code-point": "2.0.0",
+        "strip-ansi": "4.0.0"
+      }
+    },
+    "strip-ansi": {
+      "version": "4.0.0",
+      "resolved": "https://registry.npmjs.org/strip-ansi/-/strip-ansi-4.0.0.tgz",
+      "integrity": "sha1-qEeQIusaw2iocTibY1JixQXuNo8=",
+      "requires": {
+        "ansi-regex": "3.0.0"
+      }
+    },
+    "supports-color": {
+      "version": "4.4.0",
+      "resolved": "https://registry.npmjs.org/supports-color/-/supports-color-4.4.0.tgz",
+      "integrity": "sha512-rKC3+DyXWgK0ZLKwmRsrkyHVZAjNkfzeehuFWdGGcqGDTZFH73+RH6S/RDAAxl9GusSjZSUWYLmT9N5pzXFOXQ==",
+      "requires": {
+        "has-flag": "2.0.0"
+      }
+    },
+    "through": {
+      "version": "2.3.8",
+      "resolved": "https://registry.npmjs.org/through/-/through-2.3.8.tgz",
+      "integrity": "sha1-DdTJ/6q8NXlgsbckEV1+Doai4fU="
+    },
+    "tmp": {
+      "version": "0.0.33",
+      "resolved": "https://registry.npmjs.org/tmp/-/tmp-0.0.33.tgz",
+      "integrity": "sha512-jRCJlojKnZ3addtTOjdIqoRuPEKBvNXcGYqzO6zWZX8KfKEpnGY5jfggJQ3EjKuu8D4bJRr0y+cYJFmYbImXGw==",
+      "requires": {
+        "os-tmpdir": "1.0.2"
+      }
+    }
+  }
+}
